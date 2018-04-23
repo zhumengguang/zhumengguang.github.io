@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: url("https://avatars0.githubusercontent.com/u/30362383?s=400&u=11e6406e4c7f83758dc3c39df9b96e33c31669c7&v=4");
+  background: url("../image/background.jpg");
 }
 .header-inner {
   position: relative;
@@ -1934,7 +1934,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffc849;
+  background: #20ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
